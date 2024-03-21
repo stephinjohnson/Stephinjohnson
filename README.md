@@ -1,45 +1,32 @@
-<body>
-<div class="container">
-  <div class="profile-header">
-    <h2>Stephin Johnson</h2>
-    <p>Pursuing MCA from Amal Jyothi College of Engineering, Kanjirappally</p>
-  </div>
+# Welcome to Stephin Johnson's GitHub Repository!
 
-  <div class="profile-stats">
-    <div class="stats-card">
-      <h3>GitHub Stats</h3>
-      <p>Contributions: 123</p>
-      <p>Repositories: 20</p>
-    </div>
-    <div class="stats-card">
-      <h3>Top Languages</h3>
-      <p>Python, PHP, Java</p>
-    </div>
-  </div>
+Hello there! I'm Stephin Johnson, and I'm excited to share my projects and experiences with you. 🚀
 
-  <div class="languages-tools">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker logo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="redhat logo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php logo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb logo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux logo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5 logo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva logo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio logo">
-  </div>
+## About Me
 
-  <div class="social-links">
-    <a href="https://www.linkedin.com/in/stephin-johnson-b3519320b/" target="_blank"><i class="fab fa-linkedin"></i></a>
-  </div>
+I'm passionate about problem-solving, debugging, and writing clean, semantic code. I find immense joy in diving deep into complex problems, unraveling their intricacies, and crafting elegant solutions.
 
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/stephinjohnson/count.svg?" alt="profile views">
-  </div>
-</div>
-</body>
-</html>
+### Key Skills:
+- **Problem-solving:** I love tackling challenges head-on and finding creative solutions.
+- **Debugging:** Identifying and fixing issues is like solving a puzzle for me.
+- **Clean Code:** I believe in writing code that is not only functional but also easy to read and maintain.
+
+## Projects
+
+Here are some of the projects I've been working on:
+
+1. [Project A](link-to-project-a): A brief description of project A.
+2. [Project B](link-to-project-b): A brief description of project B.
+3. [Project C](link-to-project-c): A brief description of project C.
+
+Feel free to explore them and provide feedback. I'm always open to suggestions and collaboration!
+
+## Contact Me
+
+If you have any questions, ideas, or just want to say hi, feel free to reach out to me:
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Stephin Johnson](https://www.linkedin.com/in/stephin-johnson/)
+- **Twitter:** [@stephinjohnson](https://twitter.com/stephinjohnson)
+
+Let's connect and build amazing things together! 😊
