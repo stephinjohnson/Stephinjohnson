@@ -44,7 +44,7 @@ I'm passionate about problem-solving, debugging, and writing clean, semantic cod
 
 Here are some of the projects I've been working on:
 
-1. [Project](https://github.com/stephinjohnson/mentalhealthsupport): The Mental Health Support Platform is a web application dedicated to providing a safe and supportive environment for individuals seeking mental health resources, counseling, and community connections. Our platform aims to break down the stigma surrounding mental health and facilitate easy access to essential support services.
+1. [MindEase](https://github.com/stephinjohnson/mentalhealthsupport): MindEase - The Mental Health Support Platform is a web application dedicated to providing a safe and supportive environment for individuals seeking mental health resources, counseling, and community connections. Our platform aims to break down the stigma surrounding mental health and facilitate easy access to essential support services.
 
 Feel free to explore them and provide feedback. I'm always open to suggestions and collaboration!
 
@@ -62,8 +62,8 @@ Feel free to explore them and provide feedback. I'm always open to suggestions a
 
 If you have any questions, ideas, or just want to say hi, feel free to reach out to me:
 
-- **Email:** [your-email@example.com](mailto:stephinjohnsonk@gmail.com)
-- **LinkedIn:** [Stephin Johnson](https://www.linkedin.com/in/stephin-johnson/)
+- **Email:** [stephinjohnsonk@gmail.com](mailto:stephinjohnsonk@gmail.com)
+- **LinkedIn:** [Stephin Johnson](https://www.linkedin.com/in/stephin-johnson-b3519320b/)
 - **Twitter:** [@stephinjohnson](https://twitter.com/StephinJohnson7)
 
 Let's connect and build amazing things together! 😊
