@@ -1,4 +1,4 @@
-# Welcome to Stephin Johnson's GitHub Repository!🚀🚀🚀
+#  Stephin Johnson
 
 Hello there! I'm Stephin Johnson, and I'm excited to share my projects and experiences with you. 🚀
 
