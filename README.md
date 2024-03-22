@@ -2,10 +2,15 @@
 
 Hello there! I'm Stephin Johnson, and I'm excited to share my projects and experiences with you. 🚀
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stephinjohnson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stephinjohnson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api?username=stephinjohnson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  </div>
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stephinjohnson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
+  </div>
 </div>
+
 
 ## About Me
 
